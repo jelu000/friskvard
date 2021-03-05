@@ -1,0 +1,48 @@
+body {
+  background: linear-gradient(to left, #FFFFFF, #6b6fc9);
+
+}
+
+h2 {
+  text-decoration: underline;
+  font-stretch: expanded;
+  font-weight:normal;
+
+}
+
+p {
+  /*text-align: justify;*/
+
+}
+
+a {
+  color: darkblue;
+}
+
+.innerdiv {
+  padding: 0px;
+  margin: 0px;
+}
+
+.upper_innerdiv {
+  width: 80%;
+  margin: auto;
+  text-align: left;
+  padding: 20px;
+}
+
+.under_innerdiv {
+  width: 80%;
+  margin: auto;
+  padding: 20px;
+}
+
+.li_div_element {
+  border-radius: 10px;
+  /*width: 100%;*/
+  padding: 10px;
+  text-align: left;
+  background-color: white;
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
